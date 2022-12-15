@@ -81,10 +81,10 @@
     "id": 7,
     "location": "Coimbatore",
     "story": "Often termed as 'Manchester of South India', the city is photographically situated on the banks of River Noyyal and has an array of natural attractions.",
-    "c1": "",
-    "c2": "",
+    "c1": 16,
+    "c2": 19,
     "c3": "",
-    "nav": "",
+    "nav": "Press [1] for Kochi, [2] for Trivandrum",
     "win": 0,
     "lose": 0,
     "stranger": 1,
@@ -140,7 +140,7 @@
     "win": 0,
     "lose": 1,
     "stranger": 0,
-    "friend": 0
+    "friend": 1
   },
   {
     "id": 12,
@@ -166,7 +166,7 @@
     "win": 0,
     "lose": 0,
     "stranger": 1,
-    "friend": 0
+    "friend": 1
   },
   {
     "id": 14,
